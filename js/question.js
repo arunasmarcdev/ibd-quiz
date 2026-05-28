@@ -281,7 +281,7 @@ const quiz = [
   {
     q: '55. Which of the following property of carbon dioxide is incorrect?',
     options: ['It is colourless', 'It asphyxiates', 'It is toxic at high levels', 'It is lighter than air'],
-    answer: 1,
+    answer: 3,
   },
   {
     q: '56. If a brewery exceeds its pH effluent limit what steps can be taken to reduce total effluent pH?',
