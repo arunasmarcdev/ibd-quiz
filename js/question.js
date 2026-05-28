@@ -1727,7 +1727,7 @@ const quiz = [
     answer:0,
   },
   {
-    q:'hat is the most widely used wort clarification process?',
+    q:'What is the most widely used wort clarification process?',
     options: ['Whirlpool','Coolship','Hop back','Centrifuge'],
     answer:0,
   },
